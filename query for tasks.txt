@@ -1,0 +1,10 @@
+insert into tasks values(1,"As a user I want to reset my password",1,"complete","high","yes");
+insert into tasks values(2,"As a user I want to edit items",3,"in progress","medium","yes");
+insert into tasks values(3,"As a user I want to export data",2,"Incomplete","medium","no");
+insert into tasks values(4,"As a administrator I want to define KPI's for my sales team",4,"inprogress'',"low","yes");
+insert into tasks values(5,"As a user I want view my data on mobile",5,"Incomplete","high","no");
+insert into tasks values(6,"As a administrator I want to send alerts when new leads come in",2,"in progress","low","yes');
+insert into tasks values(7,"As a user I want to create a report of my data",5,"complete","high","yes");
+insert into tasks values(8,"As a user I want to update my reminder settings when a date is added",3,"complete","low","yes");
+insert into tasks values(9,"As a user I want filtering enhancements",4,"Incomplete","medium","no");
+insert into tasks value(10,"As a administrator I want to configure views of data",5,"Inprogress","high","yes");

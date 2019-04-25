@@ -7,4 +7,4 @@ insert into tasks values(6,"As a administrator I want to send alerts when new le
 insert into tasks values(7,"As a user I want to create a report of my data",5,"complete","high","yes");
 insert into tasks values(8,"As a user I want to update my reminder settings when a date is added",3,"complete","low","yes");
 insert into tasks values(9,"As a user I want filtering enhancements",4,"Incomplete","medium","no");
-insert into tasks value(10,"As a administrator I want to configure views of data",5,"Inprogress","high","yes");
+insert into tasks value(10,"As a administrator I want to configure views of data",5,"Inprogress","high","yes");plkjh
